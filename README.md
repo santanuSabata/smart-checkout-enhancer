@@ -1,7 +1,7 @@
 # Smart Checkout Enhancer
 
 **Version:** 1.0  
-**Author:** Your Name  
+**Author:** Santanu Sabata
 
 A WooCommerce plugin that enhances checkout with conditional fees, dynamic cart pricing, analytics, and background processing using Action Scheduler.  
 
